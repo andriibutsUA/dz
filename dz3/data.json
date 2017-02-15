@@ -1,0 +1,36 @@
+{
+   "cars": [
+      {
+         "id": 1,
+         "make": "bmw",
+         "year": "2012",
+         "transmission": "manual"
+      },
+      {
+         "id": 2,
+         "make": "renault",
+         "year": "2014",
+         "transmission": "automatic"
+      },
+      {
+         "id": 3,
+         "make": "opel",
+         "year": "2008",
+         "transmission": "manual"
+      }
+   ],
+   "bikes": [
+      {
+         "id": 1,
+         "make": "kawasaki",
+         "model": "ninja 300",
+         "volume": 300
+      },
+      {
+         "id": 2,
+         "make": "honda",
+         "model": "NC750S",
+         "volume": 750
+      }
+   ]
+}
